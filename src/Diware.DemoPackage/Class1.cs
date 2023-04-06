@@ -3,6 +3,6 @@ public class Class1
 {
     public string GetText()
     {
-        return "A1";
+        return "B2";
     }
 }
